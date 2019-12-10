@@ -5,7 +5,7 @@
 
 # 職務経歴
 ## 2018年4月 ~ 2019年7月
-某SIer ソフトウェア開発
+**某SIer ソフトウェア開発**
 
 ソフトウェア開発者として、大手自動車部品メーカー向け各種デバイス制御ソフトウェアの改修・開発を行う。
 
@@ -59,7 +59,7 @@
 地元のローカルルールや自分で考えた遊びを記録・共有するサービス。
 
 + URL : http://www.asobi-app.com/
-+ Github : https://github.com/sasakura870/asobi
++ GitHub : https://github.com/sasakura870/asobi
 ### 主な機能
 + ユーザー登録
 + 記事の作成、投稿、下書き保存
