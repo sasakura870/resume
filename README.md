@@ -121,4 +121,5 @@ Qiitaに技術的な詳細を記載した記事を書いています。
 # 運営歴
 |開催日|イベント名|
 |---|---|
-|2020年1月11日|[Ismet中部支部　名古屋もくもく会](https://connpass.com/event/158832/)|
+|2020年1月11日|[Ismet中部支部　誰でも歓迎！名古屋もくもく会](https://connpass.com/event/158832/)|
+|2020年2月22日|[Ismet中部支部　誰でも歓迎！名古屋もくもく会 #2](https://ismet-chubu.connpass.com/event/163593/)|
